@@ -1,0 +1,15 @@
+{
+  "name": "sayna-black_panther-api",
+  "version": "1.0.0",
+  "description": "Black Panther api eshop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["ecommerce"],
+  "author": "TMK",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
